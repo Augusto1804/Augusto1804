@@ -1,5 +1,6 @@
-<h1 align="center">Olá!👋, Eu sou João Augusto</h1>
-<h3 align="center">Estudante TI - IFCE.MPE, Aprendiz em Java, Python e Desenvolvimento Web, em constante evolução acadêmica e pessoal.</h3>
+<h1 align="center">Olá, Eu sou João Augusto!</h1>
+<h3 align="center">Estudante TI - IFCE.MPE
+Aprendiz em Java, Python e Desenvolvimento Web, em constante evolução acadêmica e pessoal.</h3>
 
 - 📫 E-mail: **augusto.joao07@aluno.ifce.edu.br**
 
